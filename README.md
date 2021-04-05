@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 💼 I’m currently working at Sonda as .NET Developer
+- 💼 I’m currently working at Reserva as .NET Developer
 - 💪 I’m enthusiast in .NET, Architecture
 - ⚡ Check my repos specially [Rads-crm](https://github.com/DouglasFam/rads-crm) and [Depot](https://github.com/DouglasFam/Depot-TCC)
 
